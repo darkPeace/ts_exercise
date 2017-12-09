@@ -8,4 +8,4 @@ familiarize with ts code structure
 2. the purpose of having an interface:
 
     1. cleaner declaration of variable type throughout the code.
-    2. consistent variqble declaration.
+    2. consistent variable usage and declaration.
